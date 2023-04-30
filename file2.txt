@@ -1,0 +1,17 @@
+html
+hyper text markup language
+
+css
+cascading style sheet
+
+json
+
+javascript object notation
+
+bootstrap
+
+it is the framework of css
+
+j-query
+
+light weight liberary of javascript
